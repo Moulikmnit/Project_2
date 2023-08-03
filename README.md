@@ -1,2 +1,3 @@
 # Project_2
-•	Created and designed a fully functioning clone of Amazon which allows us to order a product and to choose the quantity of the items purchased, also allows the user to track the order .It includes payment through either cash on delivery method  and also through online UPI portals like PayPal and Paytm.
+•	Created and designed a fully functioning clone of Amazon 
+![Screenshot 2023-08-03 180524](https://github.com/Moulikmnit/Project_2/assets/107049594/c497ef27-189f-43f5-8fef-e0b77900cf2b)
